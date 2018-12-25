@@ -20,7 +20,7 @@ function dogTalk() {
     callDogs
   };
 
-}();
+};
 
 let dog = dogTalk();
 dog.stateDogNameFact();
